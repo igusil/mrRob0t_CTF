@@ -20,5 +20,12 @@ ERROR: The password you entered for the username elliot is incorrect.
 ![Screenshot from 2023-10-27 00-18-33](https://github.com/igusil/mrRob0t_CTF/assets/89313216/f7d92c4c-94e7-4daa-89b8-c1d6b41961ff)
 
 Decidi interceptar a conexão com burp e realizar o brute force com os parametros.
+![Screenshot from 2023-10-27 00-29-40](https://github.com/igusil/mrRob0t_CTF/assets/89313216/3880017a-e207-40ea-8ead-b3ce273e0952)
+
+usei o hydra para realizar o brute force 
+ao passar o parametro, adcione "/wp-login.php:" e altere o user e password para ^USER^ ^PASS^
+
+![Screenshot from 2023-10-27 00-37-14](https://github.com/igusil/mrRob0t_CTF/assets/89313216/32702764-8b81-4741-a87f-ed7315a5245e)
+
 
 **********************************************************************************************************************************
