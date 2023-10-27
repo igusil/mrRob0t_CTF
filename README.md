@@ -13,4 +13,12 @@ usei o sort para deixar em ordem alfabetica e o parametro uniq, onde salvei em u
 
 ![Screenshot from 2023-10-26 23-57-58](https://github.com/igusil/mrRob0t_CTF/assets/89313216/b3a5056e-1e3a-46c6-9036-3da12490f9fb)
 
+então fui até wp-login, pode identificar no scan realizado no inicio, e na wordlist pude localizar nomes relacionados ao CTF.
+foi onde identifiquei um usuário pelo erro apresentado na tela ao errar o password, faltava no momento apenas a senha. 
+\n
+ERROR: The password you entered for the username elliot is incorrect.
+![Screenshot from 2023-10-27 00-18-33](https://github.com/igusil/mrRob0t_CTF/assets/89313216/f7d92c4c-94e7-4daa-89b8-c1d6b41961ff)
+
+Decidi interceptar a conexão com burp e realizar o brute force com os parametros.
+
 **********************************************************************************************************************************
