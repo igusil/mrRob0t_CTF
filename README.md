@@ -27,5 +27,10 @@ ao passar o parametro, adcione "/wp-login.php:" e altere o user e password para 
 
 ![Screenshot from 2023-10-27 00-37-14](https://github.com/igusil/mrRob0t_CTF/assets/89313216/32702764-8b81-4741-a87f-ed7315a5245e)
 
+Ao finalizar realizamos o login e teremos a seguinte tela.
+![Screenshot from 2023-10-27 23-35-58](https://github.com/igusil/mrRob0t_CTF/assets/89313216/507b7186-306a-4269-b7fd-e13aede2fba2)
+
+iremos buscar campos de upload para tentar um shell reverso.
+
 
 **********************************************************************************************************************************
